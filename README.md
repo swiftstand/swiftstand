@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/786/0*FGD6BUzzZs1VJLuY.gif)https://swiftstand.github.io
 <h1 align="center">Hello 🤗, I'm Swift</h1>
-<h3 align="center">A Passionate software enginee, JavaScript and python enthusiast...</h3>
+<h3 align="center">A Passionate software engineer, JavaScript and python enthusiast...</h3>
 
 <img align="right" alt="fullstack" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--32Hnc0mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif">
 
