@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **The development of a cross platform mobile application with a python RESTFUL Api**
 
-- 🌱 I’m currently **Perfecting my skillset**
+- 🌱 I’m always **Developing myself**
 
 - 👯 I’m looking to collaborate on **React Native mobile developments, Restful APIs development**
 
